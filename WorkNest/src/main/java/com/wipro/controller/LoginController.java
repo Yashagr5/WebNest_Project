@@ -10,7 +10,7 @@ import com.wipro.services.UserService;
 import javax.servlet.http.HttpSession;
 
 @Controller
-public class AuthController {
+public class LoginController {
 
     @Autowired
     private UserService userService;
